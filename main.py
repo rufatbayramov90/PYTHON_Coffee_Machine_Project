@@ -53,3 +53,4 @@ while is_on:
         drink = MENU[choice]
         if is_resources_sufficient(drink["ingredients"]):
 
+
